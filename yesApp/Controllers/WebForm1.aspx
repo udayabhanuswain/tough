@@ -12,15 +12,11 @@
             Yes I am the Not so but Great Programmer  no still trying re 
         </div>trying
     </form>
-	<b>BODMASH Nuhe re baba bhai re </b>
-    <b>Bhai lo ebe kana haba lo bhai </b>
-    <p>Yes Doing the Work for any things</p>
+	<p>Yes Doing the Work for any things</p>
 	<b>BODMASH Nuhe re baba bhai re </b>
     <p>Yes Doing the Work for any things</p>
 	<b>Bhai lo ebe kana haba lo bhai </b>
-
-    
-	
-
+    <b>BODMASH Nuhe re baba bhai re </b>
+    <b>Bhai lo ebe kana haba lo bhai </b>
 </body>
 </html>
